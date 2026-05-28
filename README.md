@@ -8,23 +8,23 @@ Does a higher app size or price necessarily indicate better app performance?
 Does a higher number of installs provide a clear indication of better user ratings compared to other apps?
 Understanding these relationships will help identify the attributes that contribute most significantly to app success and support data-driven feature development.
 
-Data Cleaning
-Standardized column names
-Replaced null values in category colums Varient and Details with unknown .
-Converting Price into numeric format 
-Removing irrelevant values in transmissions  cokumn
-#  Technologies Used
-MYSQL
-POWERBI
+#  Data Cleaning
+-  Standardized column names
+-  Replaced null values in category colums Varient and Details with unknown .
+-  Converting Price into numeric format 
+-  Removing irrelevant values in transmissions  column
 
-Key Insights
-Key Business Insights
-Certain manufacturers dominate the used car market.
-Petrol vehicles have higher market share compared to other fuel types.
-Manual transmission cars are more common than automatic.
-Major metro cities contribute higher car listings.
-Average price varies significantly across variants and fuel types.
-Distance travelled impacts resale pricing trends.
+#  Technologies Used
+-  MYSQL
+-  POWERBI
+  
+#  Key Business Insights
+-  Certain manufacturers dominate the used car market.
+-  Petrol vehicles have higher market share compared to other fuel types.
+-  Manual transmission cars are more common than automatic.
+-  Major metro cities contribute higher car listings.
+-  Average price varies significantly across variants and fuel types.
+-  Distance travelled impacts resale pricing trends.
 
 Business Recommendations
 Prioritize app visibility based on user engagement metrics such as installs and number of reviews rather than app size or price.
